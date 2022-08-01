@@ -1,0 +1,5 @@
+/* For modular css we have to give name like custom.module.css */
+.success{
+    color: goldenrod;
+    background-color: black;
+}
